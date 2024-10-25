@@ -1,0 +1,9 @@
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\bin\Debug\Entities.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\bin\Debug\Entities.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\bin\Debug\Exceptions.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\bin\Debug\Exceptions.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\obj\Debug\Entities.csproj.Up2Date
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\obj\Debug\Entities.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Entities\obj\Debug\Entities.pdb

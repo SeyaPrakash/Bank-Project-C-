@@ -1,0 +1,6 @@
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\bin\Debug\Configuration.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\bin\Debug\Configuration.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\obj\Debug\Configuration.csproj.AssemblyReference.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\obj\Debug\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\obj\Debug\Configuration.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Configuration\obj\Debug\Configuration.pdb

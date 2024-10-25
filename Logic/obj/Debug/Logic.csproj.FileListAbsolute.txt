@@ -1,0 +1,15 @@
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Logic.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Logic.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Configuration.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Data.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Entities.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Exceptions.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Configuration.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Data.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Entities.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\bin\Debug\Exceptions.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\obj\Debug\Logic.csproj.Up2Date
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\obj\Debug\Logic.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Logic\obj\Debug\Logic.pdb

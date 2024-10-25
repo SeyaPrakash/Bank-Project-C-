@@ -1,0 +1,6 @@
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\seyaprakashPerumal\source\repos\C# Program\Udemy Program\Assignment_61\Exceptions\obj\Debug\Exceptions.pdb
